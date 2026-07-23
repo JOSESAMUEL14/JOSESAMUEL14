@@ -7,10 +7,13 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JOSESAMUEL14&label=PROFILE+VIEWS&color=FF6B6B&style=flat" alt="Profile Views" />
   <a href="https://github.com/JOSESAMUEL14">
-    <img src="https://img.shields.io/github/followers/JOSESAMUEL14?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/JOSESAMUEL14?label=Followers&style=flat&color=FF6B6B" alt="Followers" />
+  </a>
+  <a href="https://github.com/JOSESAMUEL14?tab=repositories">
+    <img src="https://img.shields.io/github/repositories/JOSESAMUEL14?label=Repositories&style=flat&color=FF6B6B" alt="Repositories" />
   </a>
   <a href="https://linkedin.com/in/samueld14/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
 
@@ -69,50 +72,87 @@
 
 ---
 
-## 🌟 **Featured Projects**
+## 💻 **Featured Projects Portfolio**
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>⚡ <a href="https://github.com/JOSESAMUEL14/multicloud-cicd">multicloud-cicd</a></h3>
-        <p>Automated build, test, and deployment pipeline designed to deploy applications seamlessly across multi-cloud environments.</p>
-        <p><strong>Tech Stack:</strong> <code>AWS</code> <code>GitHub Actions</code> <code>Docker</code> <code>Terraform</code></p>
-      </td>
-      <td width="50%" valign="top">
-        <h3>📊 <a href="https://github.com/JOSESAMUEL14/docker-prometheus-grafana-monitoring">docker-prometheus-grafana</a></h3>
-        <p>Containerized observability stack for real-time resource tracking, metrics collection, and interactive dashboards.</p>
-        <p><strong>Tech Stack:</strong> <code>Docker</code> <code>Prometheus</code> <code>Grafana</code> <code>Linux</code></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🧠 <a href="https://github.com/JOSESAMUEL14/mnemo-ai-final">mnemo-ai</a></h3>
-        <p>AI memory context engine focused on persistent state storage to preserve developer context across dynamic sessions.</p>
-        <p><strong>Tech Stack:</strong> <code>Python</code> <code>Asyncio</code> <code>Flask</code> <code>Render</code></p>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🚀 <a href="https://github.com/JOSESAMUEL14/cogneecode">cogneecode</a></h3>
-        <p>Developer assistant leveraging the Cognee graph engine to retain and retrieve complex codebase context efficiently.</p>
-        <p><strong>Tech Stack:</strong> <code>Python</code> <code>Cognee Engine</code> <code>PythonAnywhere</code></p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Total_Repositories-11-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Primary_Focus-DevOps_%26_AI-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Focus" />
 </div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/JOSESAMUEL14/multicloud-cicd">multicloud-cicd</a></h3>
+      <p>Automated build, test, and deployment pipeline engineered to orchestrate seamless deployments across multi-cloud infrastructure.</p>
+      <ul>
+        <li>Automated workflow execution via GitHub Actions</li>
+        <li>Infrastructure provisioning using Terraform</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/JOSESAMUEL14/docker-prometheus-grafana-monitoring">docker-prometheus-grafana</a></h3>
+      <p>Containerized observability stack providing real-time system monitoring, metric scraping, and custom alert dashboards.</p>
+      <ul>
+        <li>Full monitoring setup orchestrated in Docker Compose</li>
+        <li>Live metric visualization with Grafana & Prometheus</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/JOSESAMUEL14/mnemo-ai-final">mnemo-ai</a></h3>
+      <p>Persistent AI state & memory management solution designed to preserve continuous context across dynamic sessions.</p>
+      <ul>
+        <li>Asynchronous processing event loops</li>
+        <li>Cloud deployment setup on Render</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/JOSESAMUEL14/cogneecode">cogneecode</a></h3>
+      <p>Developer assistant tool integrating the Cognee memory engine for efficient context retrieval and codebase understanding.</p>
+      <ul>
+        <li>Graph-based context storage engine</li>
+        <li>Deployed and hosted on PythonAnywhere</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cognee_Engine-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/PythonAnywhere-1D2939?style=flat-square&logo=pythonanywhere&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🤝 **Let's Connect & Collaborate!**
 
-<p align="center">
-  <i>I'm always open to discussing Cloud Infrastructure, DevOps pipelines, Open Source collaborations, or AI tooling projects!</i>
-</p>
+> 💡 **Open to collaboration!** Whether it's Cloud Architecture, CI/CD Automations, Kubernetes, or AI Infrastructure projects—feel free to reach out.
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samueld14/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/JOSESAMUEL14" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -121,5 +161,9 @@
 <br>
 
 <div align="center">
-  <b>⭐ Profile maintained by <a href="https://github.com/JOSESAMUEL14">JOSESAMUEL14</a></b> | <i>Always learning. Always building.</i>
+  <b>⭐ Maintained with ❤️ by <a href="https://github.com/JOSESAMUEL14">JOSESAMUEL14</a></b> | <i>Always learning. Always building.</i>
 </div>
+
+
+
+
