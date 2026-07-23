@@ -39,10 +39,7 @@ I'm a student building hands-on DevOps and cloud projects — CI/CD pipelines, c
 
 ---
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JOSESAMUEL14&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSESAMUEL14&layout=compact&theme=default&hide_border=true)
 
 ---
 
