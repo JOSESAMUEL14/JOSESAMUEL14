@@ -14,11 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=JOSESAMUEL14&label=PROFILE+VIEWS&color=0A66C2&style=flat-square" alt="Profile Views" />
   &nbsp;
   <a href="https://github.com/JOSESAMUEL14">
-    <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/samueld14/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
 
@@ -86,8 +86,8 @@
 ## 💻 **Featured Projects Portfolio**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TOTAL_REPOSITORIES-11-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/PRIMARY_FOCUS-DEVOPS_%26_AI-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Total_Repositories-11-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Primary_Focus-DevOps_%26_AI-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Focus" />
 </div>
 
 <br>
@@ -155,7 +155,7 @@
 
 <div align="center">
   <a href="https://github.com/JOSESAMUEL14?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_VIEW_ALL_PROJECTS_(11)-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+    <img src="https://img.shields.io/badge/📂_View_All_Projects_(11)-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </div>
 
@@ -169,11 +169,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samueld14/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/JOSESAMUEL14" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
