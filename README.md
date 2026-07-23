@@ -7,10 +7,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JOSESAMUEL14&label=PROFILE+VIEWS&color=FF6B6B&style=flat" alt="Profile Views" />
   <a href="https://github.com/JOSESAMUEL14">
-    <img src="https://img.shields.io/github/followers/JOSESAMUEL14?label=Followers&style=flat&color=FF6B6B" alt="Followers" />
-  </a>
-  <a href="https://github.com/JOSESAMUEL14?tab=repositories">
-    <img src="https://img.shields.io/github/repositories/JOSESAMUEL14?label=Repositories&style=flat&color=FF6B6B" alt="Repositories" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/samueld14/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
@@ -163,7 +160,3 @@
 <div align="center">
   <b>⭐ Maintained with ❤️ by <a href="https://github.com/JOSESAMUEL14">JOSESAMUEL14</a></b> | <i>Always learning. Always building.</i>
 </div>
-
-
-
-
