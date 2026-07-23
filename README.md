@@ -1,17 +1,17 @@
 # 🚀 SAMUEL | DevOps Engineering Student
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=180&section=header&text=SAMUEL%20%7C%20DEVOPS&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=SAMUEL%20%7C%20DEVOPS&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Turning+infrastructure+complexity+into+simplicity;Cloud+%26+DevOps+Enthusiast;Automation+Advocate;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=600&lines=Turning+infrastructure+complexity+into+simplicity;Cloud+%26+DevOps+Enthusiast;Automation+Advocate;Always+Learning.+Always+Building." alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JOSESAMUEL14&label=PROFILE+VIEWS&color=FF6B6B&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JOSESAMUEL14&label=PROFILE+VIEWS&color=0A66C2&style=flat-square" alt="Profile Views" />
   &nbsp;
   <a href="https://github.com/JOSESAMUEL14">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -20,14 +20,6 @@
   <a href="https://linkedin.com/in/samueld14/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-</div>
-
----
-
-## 🏆 **GitHub Achievements & Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=JOSESAMUEL14&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -90,8 +82,8 @@
 ## 💻 **Featured Projects Portfolio**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Repositories-11-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
-  <img src="https://img.shields.io/badge/Primary_Focus-DevOps_%26_AI-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Total_Repositories-11-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Primary_Focus-DevOps_%26_AI-007ACC?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Focus" />
 </div>
 
 <br>
@@ -148,7 +140,7 @@
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cognee_Engine-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cognee_Engine-0A66C2?style=flat-square" />
         <img src="https://img.shields.io/badge/PythonAnywhere-1D2939?style=flat-square&logo=pythonanywhere&logoColor=white" />
       </p>
     </td>
@@ -159,22 +151,8 @@
 
 <div align="center">
   <a href="https://github.com/JOSESAMUEL14?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_View_All_Projects_(11)-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+    <img src="https://img.shields.io/badge/📂_View_All_Projects_(11)-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
-</div>
-
----
-
-## 📊 **Languages & Activity**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSESAMUEL14&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" width="450" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JOSESAMUEL14/JOSESAMUEL14/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -198,7 +176,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%" />
 </div>
 
 <div align="center">
