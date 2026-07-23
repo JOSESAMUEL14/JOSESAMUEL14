@@ -103,60 +103,65 @@
   </table>
 </div>
 
+### 🔍 **Project Highlights & Deep Dive**
+
+* ⚡ **[Multi-Cloud CI/CD Pipeline (`multicloud-cicd`)](https://github.com/JOSESAMUEL14/multicloud-cicd)**
+  * **Highlights:** Automated build, test, and deployment pipeline designed to deploy applications seamlessly across multi-cloud environments.
+  * **Tech Involved:** AWS, GitHub Actions, Docker, Terraform.
+
+* 📊 **[Docker Prometheus Grafana Monitoring (`docker-prometheus-grafana-monitoring`)](https://github.com/JOSESAMUEL14/docker-prometheus-grafana-monitoring)**
+  * **Highlights:** Containerized observability stack for real-time resource tracking, metrics collection, and interactive performance dashboards.
+  * **Tech Involved:** Docker, Prometheus, Grafana, Linux.
+
+* 🧠 **[Mnemo AI (`mnemo-ai`)](https://github.com/JOSESAMUEL14/mnemo-ai)**
+  * **Highlights:** AI memory context engine focused on persistent state storage to preserve developer context across sessions without loss.
+  * **Tech Involved:** Python, Asyncio, Flask, Render Cloud Infrastructure.
+
+* 🚀 **[CogneeCode / KARNAN](https://github.com/JOSESAMUEL14/KARNAN)**
+  * **Highlights:** Custom developer tool leveraging the Cognee graph engine to process, retain, and retrieve code context efficiently.
+  * **Tech Involved:** Python, Cognee Engine, PythonAnywhere.
+
 ---
 
-## 🎯 **Current Focus Areas**
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQPGSs/giphy.gif" width="60" />
-        <br><strong>🔭 Multi-Cloud</strong>
-        <br><sub>AWS + GCP Integration</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" />
-        <br><strong>🌱 Helm & Service Mesh</strong>
-        <br><sub>Kubernetes Advanced</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" />
-        <br><strong>👯 Open Source</strong>
-        <br><sub>Contributing to DevOps Tools</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" />
-        <br><strong>📝 Documentation</strong>
-        <br><sub>Cloud Architecture Designs</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=JOSESAMUEL14&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOSESAMUEL14&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOSESAMUEL14&theme=rogue&bg_color=0D1117&hide_border=true&area=true&color=FF6B6B&line=FF6B6B&point=FFFFFF" width="98%" />
 </div>
 
 ---
 
-## 🚀 **DevOps Learning Roadmap**
+## 📫 **Let's Connect!**
 
-```mermaid
-graph LR
-    A[🐧 Linux Basics] --> B[🐳 Docker]
-    B --> C[☸️ Kubernetes]
-    C --> D[☁️ Cloud Platforms]
-    D --> E[🔧 Infrastructure as Code]
-    E --> F[📊 CI/CD & Monitoring]
-    F --> G[🎯 Master DevOps]
-    
-    style A fill:#f9ca24,stroke:#333,stroke-width:2px
-    style B fill:#f0932b,stroke:#333,stroke-width:2px
-    style C fill:#eb4d4b,stroke:#333,stroke-width:2px
-    style D fill:#6ab04c,stroke:#333,stroke-width:2px
-    style E fill:#22a6b3,stroke:#333,stroke-width:2px
-    style F fill:#be2edd,stroke:#333,stroke-width:2px
-    style G fill:#FF6B6B,stroke:#333,stroke-width:4px
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JOSESAMUEL14&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOSESAMUEL14&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B" width="49%" /> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOSESAMUEL14&theme=rogue&bg_color=0D1117&hide_border=true&area=true&color=FF6B6B&line=FF6B6B&point=FFFFFF" width="98%" /> </div>
-📫 Let's Connect!
-<div align="center"> <a href="https://linkedin.com/in/JOSESAMUEL14" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/JOSESAMUEL14" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="mailto:josesamuel14@example.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://your-portfolio-link.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </div>
-<details> <summary><b>💡 Quote I Live By</b></summary> <br> <blockquote> <i>"The only way to go fast is to go well."</i> — Robert C. Martin (Uncle Bob) </blockquote> </details>
-<div align="center"> <b>⭐ From <a href="https://github.com/JOSESAMUEL14">JOSESAMUEL14</a></b> | <i>Always learning. Always building.</i> </div> ```
+<div align="center">
+  <a href="https://linkedin.com/in/JOSESAMUEL14" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:josesamuel14@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<details>
+  <summary><b>💡 Quote I Live By</b></summary>
+  <br>
+  <blockquote>
+    <i>"The only way to go fast is to go well."</i> — Robert C. Martin (Uncle Bob)
+  </blockquote>
+</details>
+
+<br>
+
+<div align="center">
+  <b>⭐ From <a href="https://github.com/JOSESAMUEL14">JOSESAMUEL14</a></b> | <i>Always learning. Always building.</i>
+</div>
