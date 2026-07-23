@@ -24,6 +24,14 @@
 
 ---
 
+## 🏆 **GitHub Achievements & Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=JOSESAMUEL14&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 🛠️ **Tech Stack & Tools**
 
 <div align="center">
@@ -153,6 +161,20 @@
   <a href="https://github.com/JOSESAMUEL14?tab=repositories">
     <img src="https://img.shields.io/badge/📂_View_All_Projects_(11)-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
+</div>
+
+---
+
+## 📊 **Languages & Activity**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSESAMUEL14&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" width="450" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JOSESAMUEL14/JOSESAMUEL14/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
