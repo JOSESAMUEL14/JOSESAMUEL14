@@ -41,11 +41,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
         <br><strong>Linux</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
         <br><strong>Python</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="65" height="65" />
+        <br><strong>Java</strong>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
