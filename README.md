@@ -42,11 +42,11 @@
         <br><strong>AWS</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/debarghyadas/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="65" height="65" />
         <br><strong>Terraform</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/debarghyadas/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
         <br><strong>Linux</strong>
       </td>
       <td align="center" width="96">
@@ -54,7 +54,7 @@
         <br><strong>Python</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
         <br><strong>Java</strong>
       </td>
       <td align="center" width="96">
@@ -66,11 +66,11 @@
         <br><strong>GitHub</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/debarghyadas/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="65" height="65" />
         <br><strong>Jenkins</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/debarghyadas/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="65" height="65" />
         <br><strong>Grafana</strong>
       </td>
     </tr>
