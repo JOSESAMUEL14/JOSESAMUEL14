@@ -1,16 +1,24 @@
 # 🚀 SAMUEL | DevOps Engineering Student
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Turning+infrastructure+complexity+into+simplicity;Cloud+%26+DevOps+Enthusiast;Automation+Advocate;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=180&section=header&text=SAMUEL%20%7C%20DEVOPS&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JOSESAMUEL14&label=PROFILE+VIEWS&color=FF6B6B&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Turning+infrastructure+complexity+into+simplicity;Cloud+%26+DevOps+Enthusiast;Automation+Advocate;Always+Learning.+Always+Building." alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JOSESAMUEL14&label=PROFILE+VIEWS&color=FF6B6B&style=flat-square" alt="Profile Views" />
+  &nbsp;
   <a href="https://github.com/JOSESAMUEL14">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/samueld14/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
 
@@ -139,6 +147,14 @@
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/JOSESAMUEL14?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_View_All_Projects_(11)-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</div>
+
 ---
 
 ## 🤝 **Let's Connect & Collaborate!**
@@ -158,6 +174,10 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=100&section=footer" width="100%" />
+</div>
 
 <div align="center">
   <b>⭐ Maintained with ❤️ by <a href="https://github.com/JOSESAMUEL14">JOSESAMUEL14</a></b> | <i>Always learning. Always building.</i>
