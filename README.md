@@ -30,47 +30,47 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
         <br><strong>Docker</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="65" height="65" />
         <br><strong>K8s</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="65" height="65" />
         <br><strong>AWS</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/debarghyadas/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="65" height="65" />
         <br><strong>Terraform</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/debarghyadas/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
         <br><strong>Linux</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="65" height="65" />
         <br><strong>Python</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="65" height="65" />
         <br><strong>Java</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="65" height="65" />
         <br><strong>Nginx</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="65" height="65" />
         <br><strong>GitHub</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/debarghyadas/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="65" height="65" />
         <br><strong>Jenkins</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/debarghyadas/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" width="65" height="65" />
         <br><strong>Grafana</strong>
       </td>
     </tr>
