@@ -1,4 +1,4 @@
-# 🚀 SAMUEL | DevOps Engineering Student
+#   SAMUEL | DevOps Engineering Student
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=SAMUEL%20%7C%20DEVOPS&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+##   **Tech Stack & Tools**
 
 <div align="center">
   <table>
@@ -83,7 +83,7 @@
 
 ---
 
-## 💻 **Featured Projects Portfolio**
+##   **Featured Projects Portfolio**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Total_Repositories-11-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Total Projects" />
@@ -161,9 +161,9 @@
 
 ---
 
-## 🤝 **Let's Connect & Collaborate!**
+##   **Let's Connect & Collaborate!**
 
-> 💡 **Open to collaboration!** Whether it's Cloud Architecture, CI/CD Automations, Kubernetes, or AI Infrastructure projects—feel free to reach out.
+>   **Open to collaboration!** Whether it's Cloud Architecture, CI/CD Automations, Kubernetes, or AI Infrastructure projects—feel free to reach out.
 
 <br>
 
@@ -184,5 +184,5 @@
 </div>
 
 <div align="center">
-  <b>⭐ Maintained with ❤️ by <a href="https://github.com/JOSESAMUEL14">JOSESAMUEL14</a></b> | <i>Always learning. Always building.</i>
+  <b> Maintained by <a href="https://github.com/JOSESAMUEL14">JOSESAMUEL14</a></b> | <i>Always learning. Always building.</i>
 </div>
