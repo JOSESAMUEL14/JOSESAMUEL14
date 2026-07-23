@@ -70,115 +70,53 @@
 
 ---
 
-## 📊 **Project Status Dashboard**
+## 🌐 **Main Project: Multi-Cloud CI/CD**
 
 <div align="center">
   <table>
     <tr>
-      <th align="center">Project</th>
-      <th align="center">Status</th>
-      <th align="center">Progress</th>
-      <th align="center">Tech Stack</th>
-    </tr>
-    <tr>
-      <td align="center"><strong>🌐 Multi-Cloud CI/CD</strong></td>
-      <td align="center"><span style="color: #4CAF50;">🟢 Active</span></td>
-      <td align="center">████████░░ 80%</td>
-      <td align="center">Terraform, K8s, AWS, GCP</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>📊 Monitoring Stack</strong></td>
-      <td align="center"><span style="color: #FFC107;">🟡 Staging</span></td>
-      <td align="center">██████░░░░ 60%</td>
-      <td align="center">Docker, Prometheus, Grafana</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🍽️ KARNAN Platform</strong></td>
-      <td align="center"><span style="color: #4CAF50;">🟢 Production</span></td>
-      <td align="center">██████████ 95%</td>
-      <td align="center">MERN, Docker, AWS</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🤖 Mnemo AI</strong></td>
-      <td align="center"><span style="color: #2196F3;">🔵 Development</span></td>
-      <td align="center">████░░░░░░ 40%</td>
-      <td align="center">Python, AI, Docker</td>
+      <td align="center" width="100%" style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 15px; padding: 20px;">
+        <h2>🌐 Multi-Cloud CI/CD Pipeline</h2>
+        <p><strong>Flagship DevOps Project</strong></p>
+        <p>🌍 AWS + GCP Integration | 🔧 Terraform | ☸️ Kubernetes</p>
+        <p>📍 <a href="https://github.com/JOSESAMUEL14/multicloud-cicd">https://github.com/JOSESAMUEL14/multicloud-cicd</a></p>
+        <p>📝 Infrastructure automation across multiple cloud providers using Terraform & Kubernetes</p>
+      </td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 🏆 **DevOps Skills Matrix**
+## 📂 **Other Projects**
 
 <div align="center">
   <table>
     <tr>
-      <td width="30%"><strong>☁️ Cloud Platforms</strong></td>
-      <td width="35%">AWS ████████░░ 80%</td>
-      <td width="35%">GCP ██████░░░░ 60%</td>
-    </tr>
-    <tr>
-      <td><strong>🐳 Containers</strong></td>
-      <td>Docker █████████░ 90%</td>
-      <td>Kubernetes ███████░░░ 70%</td>
-    </tr>
-    <tr>
-      <td><strong>🔧 Infrastructure as Code</strong></td>
-      <td>Terraform ██████░░░░ 65%</td>
-      <td>Ansible ████░░░░░░ 40%</td>
-    </tr>
-    <tr>
-      <td><strong>⚡ CI/CD</strong></td>
-      <td>GitHub Actions ████████░░ 75%</td>
-      <td>Jenkins ██████░░░░ 60%</td>
-    </tr>
-    <tr>
-      <td><strong>📊 Monitoring</strong></td>
-      <td>Prometheus ██████░░░░ 55%</td>
-      <td>Grafana ███████░░░ 70%</td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎯 **Project Highlights**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%" style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 15px; padding: 15px;">
-        <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQPGSs/giphy.gif" width="60" />
-        <br><strong>🌐 Multi-Cloud CI/CD</strong>
-        <br><sub>Repository: <a href="https://github.com/JOSESAMUEL14/multicloud-cicd">multicloud-cicd</a></sub>
-        <br><sub>🌍 AWS + GCP Integration</sub>
-        <br><sub>🔄 Terraform & Kubernetes</sub>
-        <br><sub>📈 80% Complete</sub>
+      <td width="50%" align="center" style="background: #0D1117; border-radius: 10px; padding: 15px;">
+        <h3>📊 Monitoring Stack</h3>
+        <p>Docker | Prometheus | Grafana</p>
+        <p>📍 <a href="https://github.com/JOSESAMUEL14/docker-prometheus-grafana-monitoring">docker-prometheus-grafana-monitoring</a></p>
+        <sub>Monitoring stack with Docker, Prometheus & Grafana</sub>
       </td>
-      <td align="center" width="25%" style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 15px; padding: 15px;">
-        <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" />
-        <br><strong>📊 Monitoring Stack</strong>
-        <br><sub>Repository: <a href="https://github.com/JOSESAMUEL14/docker-prometheus-grafana-monitoring">docker-prometheus-grafana</a></sub>
-        <br><sub>📈 Prometheus & Grafana</sub>
-        <br><sub>🐳 Docker Compose</sub>
-        <br><sub>📊 60% Complete</sub>
+      <td width="50%" align="center" style="background: #0D1117; border-radius: 10px; padding: 15px;">
+        <h3>🍽️ KARNAN</h3>
+        <p>MERN | Docker | AWS</p>
+        <p>📍 <a href="https://github.com/JOSESAMUEL14/KARNAN">KARNAN</a></p>
+        <sub>Platform connecting surplus food to those in need</sub>
       </td>
-      <td align="center" width="25%" style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 15px; padding: 15px;">
-        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" />
-        <br><strong>🍽️ KARNAN Platform</strong>
-        <br><sub>Repository: <a href="https://github.com/JOSESAMUEL14/KARNAN">KARNAN</a></sub>
-        <br><sub>🤝 Food Surplus Connection</sub>
-        <br><sub>🛠️ MERN + Docker</sub>
-        <br><sub>✅ 95% Complete</sub>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="background: #0D1117; border-radius: 10px; padding: 15px;">
+        <h3>🤖 Mnemo AI</h3>
+        <p>Python | AI | Docker</p>
+        <p>📍 <a href="https://github.com/JOSESAMUEL14/mnemo-ai">mnemo-ai</a></p>
+        <sub>AI-powered automation and tooling project</sub>
       </td>
-      <td align="center" width="25%" style="background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 15px; padding: 15px;">
-        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" />
-        <br><strong>🤖 Mnemo AI</strong>
-        <br><sub>Repository: <a href="https://github.com/JOSESAMUEL14/mnemo-ai">mnemo-ai</a></sub>
-        <br><sub>🧠 AI-Powered Automation</sub>
-        <br><sub>🐍 Python & ML</sub>
-        <br><sub>⚙️ 40% Complete</sub>
+      <td width="50%" align="center" style="background: #0D1117; border-radius: 10px; padding: 15px;">
+        <h3>📦 More Coming Soon</h3>
+        <p>🚀 Always building</p>
+        <p>📍 <a href="https://github.com/JOSESAMUEL14?tab=repositories">View all repositories</a></p>
       </td>
     </tr>
   </table>
